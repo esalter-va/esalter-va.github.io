@@ -12,7 +12,7 @@
     "test": "echo \"No tests specified; skipping.\""
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "chart.js": "^2.9.3",
     "highlight.js": "^9.10.0",
     "html-loader": "^0.4.5",
