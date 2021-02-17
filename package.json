@@ -19,7 +19,7 @@
     "image-webpack-loader": "^3.3.0",
     "markdown-it": "^8.3.1",
     "markdownit-loader": "^1.0.1",
-    "node-sass": "^4.5.2",
+    "node-sass": "^4.13.1",
     "sass-loader": "^6.0.3",
     "sitemap-webpack-plugin": "^0.3.0",
     "vue": "^2.2.2",
